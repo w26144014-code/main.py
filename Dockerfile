@@ -54,4 +54,4 @@ RUN playwright install chromium \
 COPY . .
 
 # تشغيل البوت
-CMD ["python", "bot.py"]
+CMD ["python", "main.py"]
