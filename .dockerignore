@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+.env
+.git/
+.gitignore
+.vscode/
+.idea/
+*.md
+README.md
+bot.log
+gateway_*.py
+shot_*.png
+Approved Card.txt
+blockusers.txt
